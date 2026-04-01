@@ -57,12 +57,12 @@ The following important data analysis concepts are used in this project:
 ---
 
 ### ▶️ How to Run the Project
--  Clone the Repository
+-  Clone the repository to get the required files.
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
-- Install Required Libraries
+- First navigate to project folder in command prompt and install the required libraries by writing the following command.
 ```bash
 pip install -r requirements.txt
 ```
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 - 5️⃣ View Output
 
-* Notebook -> Outputs inside cells
+* Notebook -> Output inside cells
 * Script -> Output in terminal
 * HTML -> Open `Student_Grade_Analysis.html` in browser
   
